@@ -4,7 +4,7 @@
 
 I am Brazilian born in 1990. \
 I have started studying Python in january 6th of 2025. \
-And sice GitHub is very important, I am here doing this tutorial. \
-***Cheers!*** :heart_on_fire: 
+And since GitHub is very important, I am here doing this tutorial. \
+***Cheers!***
 
 :heart_on_fire:
